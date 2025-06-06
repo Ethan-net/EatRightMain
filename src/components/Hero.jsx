@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Hero() {
   return (
-    <div className="bg-hero-bg h-[675px] w-full relative  bg-cover bg-center flex flex-col justify-center">
+    <div className="bgHero h-[675px] w-full relative  bg-cover bg-center flex flex-col justify-center">
       {/* Radial gradient overlay */}
       <div
         className="absolute inset-0 "

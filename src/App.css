@@ -16,3 +16,6 @@
 .cardsushi:nth-child(even) {
   background-color: #2e2e2e;
 }
+.bgHero {
+  background-image: url("./src/assets/heropageIMG/luxurybg4.png");
+}
