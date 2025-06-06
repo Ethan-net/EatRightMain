@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Cormorant+SC:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Cormorant+SC:wght@300;400;500;600;700&family=Great+Vibes&display=swap");
+.navFont {
+  font-family: "Cormorant SC", serif;
+}
+.navfontList {
+  font-size: 0.8rem;
+}
+.herobigfont {
+  font-family: "Cinzel", serif;
+}
+.herobest {
+  font-family: "Great Vibes", cursive;
+}
+.cardsushi:nth-child(even) {
+  background-color: #2e2e2e;
+}
